@@ -58,14 +58,7 @@ pip install numpy
 python main.py
 ```
 
-## Contribution
+## Time Complexity
+Time Complexity to calculate the intersections: O(m^2 + n) where m is the count of unique identifiers or the number of chords which also equals n/2. 
 
-Contributions are welcome! If you find any issues or have suggestions, feel free to open an issue or create a pull request.
 
-## References
-
-[Stack Overflow - Counting intersecting chords inside a circle](https://stackoverflow.com/questions/77901464/counting-intersecting-chords-inside-a-circle)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
