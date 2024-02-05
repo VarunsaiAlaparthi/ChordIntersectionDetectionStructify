@@ -32,8 +32,7 @@ Follow the prompts to choose input options and provide necessary input.
 Suppose you have a set of chords defined by radians and identifiers your input text file should look like this:
 
 ```txt
-[0.2, 1.5, 2.7, 4.3, 0.1, 3.0, 3.9, 5.2],
-['s0', 'e0', 's1', 'e1', 's2', 'e2', 's3', 'e3']
+[0.2, 1.5, 2.7, 4.3, 0.1, 3.0, 3.9, 5.2], ['s0', 'e0', 's1', 'e1', 's2', 'e2', 's3', 'e3']
 ```
 
 Running the script with this input text would output the total number of chord intersections.
