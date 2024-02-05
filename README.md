@@ -1,5 +1,5 @@
 
-# Chord Intersections Calculator
+# Count the Chord Intersections Inside a circle
 
 A Python script to calculate the number of intersections of chords inside a circle.
 
