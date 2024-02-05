@@ -42,8 +42,8 @@ Running the script with this input text would output the total number of chord i
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ChordIntersectionsCalculator.git
-cd ChordIntersectionsCalculator
+https://github.com/Varunsaistark/ChordIntersectionDetectionStructify.git
+cd ChordIntersectionDetectionStructify
 ```
 
 2. Install required dependencies:
