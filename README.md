@@ -59,6 +59,7 @@ python main.py
 ```
 
 ## Time Complexity
-Time Complexity to calculate the intersections: O(m^2 + n) where m is the count of unique identifiers or the number of chords which also equals n/2. 
+Time Complexity to calculate the intersections: O(m^2 + n) where m is the count of unique identifiers or the number of chords which also equals n/2. But as we are use vectorization, it's more faster due to the inherent parallelization. 
+
 
 
